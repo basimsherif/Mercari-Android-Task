@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mercari</string>
+    <string name="fab_click">FAB clicked!</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="retry">Retry</string>
+    <string name="category_error">An error occurred while loading the categories</string>
+    <string name="product_error">An error occurred while loading the products</string>
+</resources>
